@@ -38,13 +38,18 @@ We welcome contributions from the community to enhance the functionality and usa
 ## License
 Laundry Wallah is licensed under the MIT License - see the LICENSE file for details.
 
-## HomePage_ScreenShot ![screencapture-file-D-Programs-laundry-WALLAH-index-html-2024-03-09-16_27_46](https://github.com/Ayushd1409/Laundry-WALLAH/assets/115350571/fcf4c67c-b5f5-40d2-aa05-a709ca35c6d3)
+## HomePage_ScreenShot 
+## ![screencapture-file-D-Programs-laundry-WALLAH-index-html-2024-03-09-16_27_46](https://github.com/Ayushd1409/Laundry-WALLAH/assets/115350571/fcf4c67c-b5f5-40d2-aa05-a709ca35c6d3)
 
-## Admin_LoginPage_Screenshot![screencapture-file-D-Programs-laundry-WALLAH-login-html-2024-03-09-16_28_22](https://github.com/Ayushd1409/Laundry-WALLAH/assets/115350571/8fc9af8c-207e-4217-93da-a04c6824276e)
+## Admin_LoginPage_Screenshot
+## ![screencapture-file-D-Programs-laundry-WALLAH-login-html-2024-03-09-16_28_22](https://github.com/Ayushd1409/Laundry-WALLAH/assets/115350571/8fc9af8c-207e-4217-93da-a04c6824276e)
 
-## Register_Page_Screenshot![screencapture-file-D-Programs-laundry-WALLAH-register-html-2024-03-09-16_28_38](https://github.com/Ayushd1409/Laundry-WALLAH/assets/115350571/a4051255-1f70-4b14-a077-07b9b780f79e)
+## Register_Page_Screenshot
+## ![screencapture-file-D-Programs-laundry-WALLAH-register-html-2024-03-09-16_28_38](https://github.com/Ayushd1409/Laundry-WALLAH/assets/115350571/a4051255-1f70-4b14-a077-07b9b780f79e)
 
-## Shop_Dashboard_Screenshot![screencapture-file-D-Programs-laundry-WALLAH-SHOPdash-html-2024-03-09-16_40_38](https://github.com/Ayushd1409/Laundry-WALLAH/assets/115350571/90d19758-b867-42bd-b5d4-0419aee03d39)
+## Shop_Dashboard_Screenshot
+## ![screencapture-file-D-Programs-laundry-WALLAH-SHOPdash-html-2024-03-09-16_40_38](https://github.com/Ayushd1409/Laundry-WALLAH/assets/115350571/90d19758-b867-42bd-b5d4-0419aee03d39)
 
-## Customer_Dashboard_Screenshot![screencapture-file-D-Programs-laundry-WALLAH-customerboard-html-2024-03-09-16_40_10](https://github.com/Ayushd1409/Laundry-WALLAH/assets/115350571/47481785-6a84-4817-b1e4-0e71cc762765)
+## Customer_Dashboard_Screenshot
+## ![screencapture-file-D-Programs-laundry-WALLAH-customerboard-html-2024-03-09-16_40_10](https://github.com/Ayushd1409/Laundry-WALLAH/assets/115350571/47481785-6a84-4817-b1e4-0e71cc762765)
 
