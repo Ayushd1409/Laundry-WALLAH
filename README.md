@@ -2,6 +2,8 @@
 # Laundry Wallah: Laundry Services Platform
 Welcome to Laundry Wallah, your go-to platform for all laundry services needs. Whether you're a shop owner looking to list your services or a customer searching for the perfect laundry service, Laundry Wallah has got you covered.
 
+ ## VISIT - https://ayushlaundry.netlify.app/
+ 
 ## For Shop Owners
 If you own a laundry service shop, Laundry Wallah provides an excellent opportunity to expand your reach and connect with more customers. Here's how you can get started:
 
